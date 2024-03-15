@@ -1,4 +1,4 @@
-# QRise-IBM-Quantum-Challenge
+# QRise-IBM-Quantum-Challenge (Quantum Cats)
 Dynamic Circuits: Maximizing performance and tailoring Noise
 
 
